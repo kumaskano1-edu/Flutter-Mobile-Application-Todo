@@ -5,7 +5,7 @@ Simple TodoApplication, built in flutter using custom object database.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-**Install using:
+`Install using`:
 <ul>
   <li>pub get </li>
  </ul>
