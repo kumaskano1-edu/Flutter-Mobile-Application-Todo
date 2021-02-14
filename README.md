@@ -1,14 +1,19 @@
 # flutter_todo_app
 
-Tutorial TodoApp
+Simple TodoApplication, built in flutter using custom object database.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+**Install using:
+<ul>
+  <li>pub get </li>
+ </ul>
 
 A few resources to get you started if this is your first Flutter project:
-![Alt text](assets\images\screen.png?raw=true "Title")
-![alt text](https://github.com/kumaskano1-edu/Flutter-Mobile-Application/blob/media/screen.png)
+
+## Project DEMO
+![alt text](https://user-images.githubusercontent.com/57332034/107869867-c7473c80-6e47-11eb-9dae-78de499ef9e1.png)
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
