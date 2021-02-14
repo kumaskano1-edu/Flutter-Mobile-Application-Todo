@@ -15,9 +15,14 @@ class _TaskPageState extends State<TaskPage> {
           children: [
             Row(
               children: [
-                Padding(
-                  padding: const EdgeInsets.all(24.0),
-                  child: Image(image: AssetImage('assets/images/back_arrow_icon.png'),),
+                InkWell(
+                  onTap: () {
+                    Navigator.pop(context);
+                  },
+                  child: Padding(
+                    padding: const EdgeInsets.all(24.0),
+                    child: Image(image: AssetImage('assets/images/back_arrow_icon.png'),),
+                  ),
                 ),
                 Expanded(child: TextField(
                   decoration: InputDecoration(
